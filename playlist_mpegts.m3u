@@ -1,721 +1,874 @@
 #EXTM3U
-#EXTINF:0 group-title="Общероссийские",Первый канал
+#EXTINF:0 group-title="Общероссийские",Первый HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/pervyj/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Первый Канал Европа
+http://s01.wsbof.com/pervyj-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Россия 1 HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/pervyj-evropa/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Россия 1
+http://s01.wsbof.com/rossija-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",НТВ HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/rossija1/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",РТР-Планета
-#EXTGRP:Общероссийские
-http://s01.wsbof.com/rtr-planeta/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",НТВ
-#EXTGRP:Общероссийские
-http://s01.wsbof.com/ntv/mpegts?token=98053602
+http://s01.wsbof.com/ntv-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",НТВ Мир
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/ntv-mir/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",ТНТ
+http://s01.wsbof.com/ntv-mir/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",ТНТ HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/TNT/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",ТНТ4
+http://s01.wsbof.com/tnt-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",ТНТ4 HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/tnt-4/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",СТС
+http://s01.wsbof.com/tnt4-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",СТС HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/CTC/mpegts?token=98053602
+http://s01.wsbof.com/ctc-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",СТС Love
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/sts-love/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Домашний
+http://s01.wsbof.com/sts-love/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Домашний HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/domashnij/mpegts?token=98053602
+http://s01.wsbof.com/domashnij-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",Перец
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/perec/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",РЕН ТВ
+http://s01.wsbof.com/perec/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",РЕН ТВ HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/ren-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",ТВ3
+http://s01.wsbof.com/rentv-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",ТВ3 HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/tv-3/mpegts?token=98053602
+http://s01.wsbof.com/tv3-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",Че
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/4e/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Звезда
+http://s01.wsbof.com/4e/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Звезда HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/zvezda/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Звезда Плюс
+http://s01.wsbof.com/zvezda-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Звезда Плюс HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/zvezda-plus/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",ТВЦ
+http://s01.wsbof.com/zvezda-plus-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",ТВЦ HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/tvc/mpegts?token=98053602
+http://s01.wsbof.com/tvc-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",5 канал
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/5kanal/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Россия Культура
+http://s01.wsbof.com/5kanal/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Россия Культура HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/rossija-k/mpegts?token=98053602
+http://s01.wsbof.com/rossija-k-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",Москва Доверие
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/moskva-doverie/mpegts?token=98053602
+http://s01.wsbof.com/moskva-doverie/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",Союз
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/souz/mpegts?token=98053602
+http://s01.wsbof.com/souz/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",Спас
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/spas/mpegts?token=98053602
+http://s01.wsbof.com/spas/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",Красная линия
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/krasnaja-linija/mpegts?token=98053602
+http://s01.wsbof.com/krasnaja-linija/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",8 канал
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/8-kanal/mpegts?token=98053602
+http://s01.wsbof.com/8-kanal/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",9 Канал
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/9-kanal/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",ОТР
+http://s01.wsbof.com/9-kanal/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",ОТР HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/otp/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Мир
+http://s01.wsbof.com/otp-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Мир HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/mir/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Мир 24
+http://s01.wsbof.com/mir-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Мир 24 HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/mir-24/mpegts?token=98053602
+http://s01.wsbof.com/mir-24-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",Сарафан
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/sarafan/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Gagsnetwork
+http://s01.wsbof.com/sarafan/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Gagsnetwork HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/gagsnetwork/mpegts?token=98053602
+http://s01.wsbof.com/gagsnetwork-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",КВН ТВ
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/kvn-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Пятница
+http://s01.wsbof.com/kvn-tv/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Пятница HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/piatnica/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Суббота
+http://s01.wsbof.com/piatnica-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Суббота HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/super/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Телеканал 360
+http://s01.wsbof.com/super-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Телеканал 360 HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/podmoskovje/mpegts?token=98053602
+http://s01.wsbof.com/telekanal-360-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",Ю ТВ
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/yu-tv/mpegts?token=98053602
+http://s01.wsbof.com/yu-tv/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",Время
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/vremya/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",RT Док
+http://s01.wsbof.com/vremya/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",RT Док HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/rt-doc/mpegts?token=98053602
+http://s01.wsbof.com/russia-today-doc-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Общероссийские",RTVi
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/rtvi/mpegts?token=98053602
-#EXTINF:0 group-title="Общероссийские",Дождь
+http://s01.wsbof.com/rtvi/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Дождь HD
 #EXTGRP:Общероссийские
-http://s01.wsbof.com/dozhd/mpegts?token=98053602
+http://s01.wsbof.com/dozhd-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Общероссийские",Настоящее время HD
+#EXTGRP:Общероссийские
+http://s01.wsbof.com/nastoyaschee-vremya-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Новости",Россия 24
 #EXTGRP:Новости
-http://s01.wsbof.com/rossija24/mpegts?token=98053602
+http://s01.wsbof.com/rossija24/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Новости",EuroNews
 #EXTGRP:Новости
-http://s01.wsbof.com/evronews/mpegts?token=98053602
-#EXTINF:0 group-title="Новости",Известия
+http://s01.wsbof.com/evronews/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Новости",Известия HD
 #EXTGRP:Новости
-http://s01.wsbof.com/izvestija/mpegts?token=98053602
+http://s01.wsbof.com/izvestija-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Новости",360 Новости HD
+#EXTGRP:Новости
+http://s01.wsbof.com/360-novosti-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Новости",Москва 24
 #EXTGRP:Новости
-http://s01.wsbof.com/moskva-24/mpegts?token=98053602
-#EXTINF:0 group-title="Новости",РБК
+http://s01.wsbof.com/moskva-24/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Новости",РБК HD
 #EXTGRP:Новости
-http://s01.wsbof.com/rbk/mpegts?token=98053602
-#EXTINF:0 group-title="Новости",RT
+http://s01.wsbof.com/rbk-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Новости",RT HD
 #EXTGRP:Новости
-http://s01.wsbof.com/rt-english/mpegts?token=98053602
+http://s01.wsbof.com/russia-today-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Новости",Sky News
 #EXTGRP:Новости
-http://s01.wsbof.com/sky-news-uk/mpegts?token=98053602
-#EXTINF:0 group-title="Новости",BBC World
+http://s01.wsbof.com/sky-news-uk/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Новости",FOX News HD
 #EXTGRP:Новости
-http://s01.wsbof.com/bbc-world-news/mpegts?token=98053602
-#EXTINF:0 group-title="Новости",CNN
+http://s01.wsbof.com/fox-news-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Новости",BBC World HD
 #EXTGRP:Новости
-http://s01.wsbof.com/cnn/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Кинохит
+http://s01.wsbof.com/bbc-world-news-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Новости",CNN HD
+#EXTGRP:Новости
+http://s01.wsbof.com/cnn-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Новости",Bloomberg TV HD
+#EXTGRP:Новости
+http://s01.wsbof.com/bloomberg-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Новости",Al Jazeera HD
+#EXTGRP:Новости
+http://s01.wsbof.com/al-jazeera-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Кинопремьера HD
 #EXTGRP:Кино
-http://s01.wsbof.com/kinohit/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Киномикс
+http://s01.wsbof.com/kinopremiera-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Премиальное HD
 #EXTGRP:Кино
-http://s01.wsbof.com/kinomix/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Киносемья
+http://s01.wsbof.com/kino-premium-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Остросюжетное HD
 #EXTGRP:Кино
-http://s01.wsbof.com/kinosemja/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Киносвидание
+http://s01.wsbof.com/ostrosujetnoe-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Хит HD
 #EXTGRP:Кино
-http://s01.wsbof.com/kinosvidanije/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Киносерия
+http://s01.wsbof.com/hit-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Кинохит HD
 #EXTGRP:Кино
-http://s01.wsbof.com/mnogo-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Кинопоказ
+http://s01.wsbof.com/kinohit-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Киномикс HD
 #EXTGRP:Кино
-http://s01.wsbof.com/kinopokaz/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",TV1000
+http://s01.wsbof.com/kinomix-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Киносемья HD
 #EXTGRP:Кино
-http://s01.wsbof.com/tv1000/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",TV1000 Action
+http://s01.wsbof.com/kinosemja-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Киносвидание HD
 #EXTGRP:Кино
-http://s01.wsbof.com/tv1000-action/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",TV1000 Русское Кино
+http://s01.wsbof.com/kinosvidanije-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Киносерия HD
 #EXTGRP:Кино
-http://s01.wsbof.com/tv1000-ru-kino/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",TV1000 World Kino
+http://s01.wsbof.com/mnogo-tv-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Кинопоказ HD
 #EXTGRP:Кино
-http://s01.wsbof.com/tv1000-world-kino/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Cinema
+http://s01.wsbof.com/kinopokaz-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Блокбастер HD
 #EXTGRP:Кино
-http://s01.wsbof.com/cinema/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Кино ТВ
+http://s01.wsbof.com/blokbaster-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Наш Кинопоказ HD
 #EXTGRP:Кино
-http://s01.wsbof.com/kino-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Start World
+http://s01.wsbof.com/nash-kinopokaz-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Душевное HD
 #EXTGRP:Кино
-http://s01.wsbof.com/start-world/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Start Air
+http://s01.wsbof.com/nash-kinoroman-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Наше HD
 #EXTGRP:Кино
-http://s01.wsbof.com/start-air/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Plan B
+http://s01.wsbof.com/nashe-krutoe-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Любимое HD
 #EXTGRP:Кино
-http://s01.wsbof.com/plan-b/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Еврокино
+http://s01.wsbof.com/nashe-lubimoe-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",VIP Premiere
 #EXTGRP:Кино
-http://s01.wsbof.com/evrokino/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Flix Snip
+http://s01.wsbof.com/vip-premiere-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",VIP Megahit
 #EXTGRP:Кино
-http://s01.wsbof.com/flix-snip/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",SHOT TV
+http://s01.wsbof.com/vip-megahit-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",VIP Comedy
 #EXTGRP:Кино
-http://s01.wsbof.com/egoist-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Мужское кино
+http://s01.wsbof.com/vip-comedy-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",VIP Serial
 #EXTGRP:Кино
-http://s01.wsbof.com/muzhskoe-kino/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Scream
+http://s01.wsbof.com/vip-serial-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",TV1000 HD
 #EXTGRP:Кино
-http://s01.wsbof.com/Scream/mpegts?token=98053602
+http://s01.wsbof.com/tv1000-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",TV1000 Action HD
+#EXTGRP:Кино
+http://s01.wsbof.com/tv1000-action-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",TV1000 Русское Кино HD
+#EXTGRP:Кино
+http://s01.wsbof.com/tv1000-russkoje-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",TV1000 World Kino HD
+#EXTGRP:Кино
+http://s01.wsbof.com/tv1000-world-kino-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Hollywood HD
+#EXTGRP:Кино
+http://s01.wsbof.com/mgm-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Cinema HD
+#EXTGRP:Кино
+http://s01.wsbof.com/cinema-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Кино ТВ HD
+#EXTGRP:Кино
+http://s01.wsbof.com/kino-tv-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Kinojam 1 HD
+#EXTGRP:Кино
+http://s01.wsbof.com/kinojam1-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Kinojam 2 HD
+#EXTGRP:Кино
+http://s01.wsbof.com/kinojam2-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Family Jam HD
+#EXTGRP:Кино
+http://s01.wsbof.com/family-jam-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Detective Jam HD
+#EXTGRP:Кино
+http://s01.wsbof.com/detective-jam-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Start World HD
+#EXTGRP:Кино
+http://s01.wsbof.com/start-world-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Start Air HD
+#EXTGRP:Кино
+http://s01.wsbof.com/start-air-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Plan B HD
+#EXTGRP:Кино
+http://s01.wsbof.com/plan-b-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",4ever Cinema HD
+#EXTGRP:Кино
+http://s01.wsbof.com/4ever-cinema-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Кинеко HD
+#EXTGRP:Кино
+http://s01.wsbof.com/kineko-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Еврокино HD
+#EXTGRP:Кино
+http://s01.wsbof.com/evrokino-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Flix Snip HD
+#EXTGRP:Кино
+http://s01.wsbof.com/flix-snip-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",SHOT TV HD
+#EXTGRP:Кино
+http://s01.wsbof.com/egoist-tv-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Мужское кино HD
+#EXTGRP:Кино
+http://s01.wsbof.com/muzhskoe-kino-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Наше Мужское HD
+#EXTGRP:Кино
+http://s01.wsbof.com/nashe-muzshkoe-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Trash HD
+#EXTGRP:Кино
+http://s01.wsbof.com/trash-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Страшное HD
+#EXTGRP:Кино
+http://s01.wsbof.com/strashnoe-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Шокирующее HD
+#EXTGRP:Кино
+http://s01.wsbof.com/shokiruschee-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Киноужас HD
+#EXTGRP:Кино
+http://s01.wsbof.com/kinouzhas-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Scream HD
+#EXTGRP:Кино
+http://s01.wsbof.com/scream-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",НСТ
 #EXTGRP:Кино
-http://s01.wsbof.com/hct/mpegts?token=98053602
+http://s01.wsbof.com/hct/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",Комедия
 #EXTGRP:Кино
-http://s01.wsbof.com/russkaja-comedija/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Кинокомедия
+http://s01.wsbof.com/russkaja-comedija/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Кинокомедия HD
 #EXTGRP:Кино
-http://s01.wsbof.com/kinokomedia/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Amedia Premium
+http://s01.wsbof.com/kinokomedia-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Комедийное HD
 #EXTGRP:Кино
-http://s01.wsbof.com/amedia-premium/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Amedia Hit
+http://s01.wsbof.com/komedijnoe-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Камеди HD
 #EXTGRP:Кино
-http://s01.wsbof.com/amedia-hit/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",A1
+http://s01.wsbof.com/comedy-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",AMEDIA Premium HD
 #EXTGRP:Кино
-http://s01.wsbof.com/amedia-1/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",A2
+http://s01.wsbof.com/amedia-premium-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",AMEDIA HIT HD
 #EXTGRP:Кино
-http://s01.wsbof.com/amedia-2/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",FOX
+http://s01.wsbof.com/amedia-hit-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",A1 HD
 #EXTGRP:Кино
-http://s01.wsbof.com/fox/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Fox Life
+http://s01.wsbof.com/amedia1-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",A2 HD
 #EXTGRP:Кино
-http://s01.wsbof.com/fox-life/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Red
+http://s01.wsbof.com/amedia-2-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",FOX HD
 #EXTGRP:Кино
-http://s01.wsbof.com/set/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Sci-Fi
+http://s01.wsbof.com/fox-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",FOX Life HD
 #EXTGRP:Кино
-http://s01.wsbof.com/sony-sci-fi/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Black
+http://s01.wsbof.com/fox-life-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Red HD
 #EXTGRP:Кино
-http://s01.wsbof.com/sony-turbo/mpegts?token=98053602
+http://s01.wsbof.com/set-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Sci-Fi HD
+#EXTGRP:Кино
+http://s01.wsbof.com/sci-fi-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Black HD
+#EXTGRP:Кино
+http://s01.wsbof.com/black-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",TV XXI
 #EXTGRP:Кино
-http://s01.wsbof.com/tv-xxi/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Мосфильм
+http://s01.wsbof.com/tv-xxi/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Мосфильм HD
 #EXTGRP:Кино
-http://s01.wsbof.com/mosfilm/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Любимое Кино
+http://s01.wsbof.com/mosfilm-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Любимое Кино HD
 #EXTGRP:Кино
-http://s01.wsbof.com/lubimoe-kino/mpegts?token=98053602
+http://s01.wsbof.com/lubimoe-kino-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",Родное кино
 #EXTGRP:Кино
-http://s01.wsbof.com/rodnoje_kino/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Победа
+http://s01.wsbof.com/rodnoje_kino/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Победа HD
 #EXTGRP:Кино
-http://s01.wsbof.com/pobeda/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Наше новое кино
+http://s01.wsbof.com/pobeda-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",День Победы HD
 #EXTGRP:Кино
-http://s01.wsbof.com/nashe-novoe-kino/mpegts?token=98053602
+http://s01.wsbof.com/den-pobedy-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Наше новое кино HD
+#EXTGRP:Кино
+http://s01.wsbof.com/nashe-novoe-kino-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",Русский Бестселлер
 #EXTGRP:Кино
-http://s01.wsbof.com/russkij-bestseller/mpegts?token=98053602
+http://s01.wsbof.com/russkij-bestseller/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",Дом Кино
 #EXTGRP:Кино
-http://s01.wsbof.com/dom-kino/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Русский Роман
+http://s01.wsbof.com/dom-kino/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Дом Кино Премиум HD
 #EXTGRP:Кино
-http://s01.wsbof.com/russkij-roman/mpegts?token=98053602
+http://s01.wsbof.com/dom-kino-premium-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Русский Роман HD
+#EXTGRP:Кино
+http://s01.wsbof.com/russkij-roman-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",Русский Детектив
 #EXTGRP:Кино
-http://s01.wsbof.com/russkij-detektiv/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Русский Иллюзион
+http://s01.wsbof.com/russkij-detektiv/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Русский Иллюзион HD
 #EXTGRP:Кино
-http://s01.wsbof.com/russkij-iluzion/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Иллюзион +
+http://s01.wsbof.com/russkij-iluzion-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Иллюзион + HD
 #EXTGRP:Кино
-http://s01.wsbof.com/iluzion-plus/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Феникс+Кино
+http://s01.wsbof.com/iluzion-plus-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Феникс+Кино HD
 #EXTGRP:Кино
-http://s01.wsbof.com/feniks-plus-kino/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Мир Сериала
+http://s01.wsbof.com/feniks-plus-kino-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Мир Сериала HD
 #EXTGRP:Кино
-http://s01.wsbof.com/mir-seriala/mpegts?token=98053602
+http://s01.wsbof.com/mir-seriala-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Романтичное HD
+#EXTGRP:Кино
+http://s01.wsbof.com/romantichnoe-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Про Любовь HD
+#EXTGRP:Кино
+http://s01.wsbof.com/pro-lubov-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",НТВ Хит
 #EXTGRP:Кино
-http://s01.wsbof.com/ntv-hit/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",НТВ Сериал
+http://s01.wsbof.com/ntv-hit/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",НТВ Сериал HD
 #EXTGRP:Кино
-http://s01.wsbof.com/ntv-serial/mpegts?token=98053602
+http://s01.wsbof.com/ntv-serial-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",Ностальгия
 #EXTGRP:Кино
-http://s01.wsbof.com/nostalgia/mpegts?token=98053602
+http://s01.wsbof.com/nostalgia/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",Ретро ТВ
 #EXTGRP:Кино
-http://s01.wsbof.com/retro/mpegts?token=98053602
+http://s01.wsbof.com/retro/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Сапфир HD
+#EXTGRP:Кино
+http://s01.wsbof.com/sapfir-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Дорама HD
+#EXTGRP:Кино
+http://s01.wsbof.com/dorama-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Bollywood HD
+#EXTGRP:Кино
+http://s01.wsbof.com/bollywood/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Кино",Индийское Кино
 #EXTGRP:Кино
-http://s01.wsbof.com/indija-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Кино",Zee TV
+http://s01.wsbof.com/indija-tv/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Кино",Индия ТВ HD
 #EXTGRP:Кино
-http://s01.wsbof.com/zee-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Матч Премьер
-#EXTGRP:Спорт
-http://s01.wsbof.com/nash-futbol/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Футбол
-#EXTGRP:Спорт
-http://s01.wsbof.com/futbol/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",МАТЧ! Футбол 1
-#EXTGRP:Спорт
-http://s01.wsbof.com/match-futbol-1/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",МАТЧ! Футбол 2
-#EXTGRP:Спорт
-http://s01.wsbof.com/match-futbol-2/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",МАТЧ! Футбол 3
-#EXTGRP:Спорт
-http://s01.wsbof.com/match-futbol-3/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Матч ТВ
-#EXTGRP:Спорт
-http://s01.wsbof.com/match/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Матч! Игра
-#EXTGRP:Спорт
-http://s01.wsbof.com/match-igra/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Матч! Арена
-#EXTGRP:Спорт
-http://s01.wsbof.com/match-arena/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Матч! Страна
-#EXTGRP:Спорт
-http://s01.wsbof.com/match-nash-sport/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Матч! Планета
-#EXTGRP:Спорт
-http://s01.wsbof.com/match-planeta/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",KHL
-#EXTGRP:Спорт
-http://s01.wsbof.com/khl-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Мир Баскетбола
-#EXTGRP:Спорт
-http://s01.wsbof.com/mir-basketbola/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Sport1 Baltic
-#EXTGRP:Спорт
-http://s01.wsbof.com/sport1-baltic/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Sport2 Baltic
-#EXTGRP:Спорт
-http://s01.wsbof.com/sport2-baltic/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Viasat Sport
-#EXTGRP:Спорт
-http://s01.wsbof.com/viasat-sport/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Eurosport 1
-#EXTGRP:Спорт
-http://s01.wsbof.com/evrosport/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Eurosport 2
-#EXTGRP:Спорт
-http://s01.wsbof.com/evrosport-2/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Спорт 1
-#EXTGRP:Спорт
-http://s01.wsbof.com/sport1-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Спорт 2
-#EXTGRP:Спорт
-http://s01.wsbof.com/sport2-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",XSport
-#EXTGRP:Спорт
-http://s01.wsbof.com/xsport/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",M-1 Global
-#EXTGRP:Спорт
-http://s01.wsbof.com/m1-global-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",МАТЧ! Боец
-#EXTGRP:Спорт
-http://s01.wsbof.com/match-boec/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Бокс ТВ
-#EXTGRP:Спорт
-http://s01.wsbof.com/boks-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Точка Отрыва
-#EXTGRP:Спорт
-http://s01.wsbof.com/tochka-otryva/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Extreme Sports
-#EXTGRP:Спорт
-http://s01.wsbof.com/extreme-sports/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Авто Плюс
-#EXTGRP:Спорт
-http://s01.wsbof.com/avto-plus/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Авто 24
-#EXTGRP:Спорт
-http://s01.wsbof.com/avto-24/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Драйв
-#EXTGRP:Спорт
-http://s01.wsbof.com/drive/mpegts?token=98053602
-#EXTINF:0 group-title="Спорт",Первый Автомобильный
-#EXTGRP:Спорт
-http://s01.wsbof.com/pervyj-avto-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Детский мир
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/detskij-mir/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Карусель
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/karusel/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",В гостях у сказки
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/gosti-skazka/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Мульт
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/mult/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Мультиландия
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/multimania/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Мультимузыка
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/strana/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",СТС Kids
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/ctc-kids/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Рыжий
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/ryzhij/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Уникум
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/detksij/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",О!
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/kanal-o/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Disney Channel
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/disney/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Nickelodeon
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/nickelodeon/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Nickelodeon Eng
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/nickelodeon-us/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Cartoon Network
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/cartoon-network/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Ani
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/ani/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Nick Jr
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/nickjr/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",NickJr Eng
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/nickjr-en/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",TiJi
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/tiji/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",JimJam
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/jimjam/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Gulli Girl
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/gulli/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Boomerang
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/boomerang/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",2x2
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/2x2/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",FAN
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/fan/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",ПлюсПлюс
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/plus-plus2/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Піксель
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/pixel-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Мультфильмы",Малятко TV
-#EXTGRP:Мультфильмы
-http://s01.wsbof.com/malyatko-tv-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",National Geographic
+http://s01.wsbof.com/zee-tv-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",National Geographic HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/national-geographic/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Discovery Channel
+http://s01.wsbof.com/nat-geo-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Discovery Channel HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/discovery/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Discovery Science
+http://s01.wsbof.com/discovery-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Discovery Science HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/discovery-science/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",DTX
+http://s01.wsbof.com/discovery-science-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",DTX HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/dtx/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Investigation Discovery
+http://s01.wsbof.com/dtx-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Investigation Discovery HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/id-xtra/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",TLC
+http://s01.wsbof.com/id-xtra-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",TLC HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/tlc/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Animal planet
+http://s01.wsbof.com/tlc-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Womens Magazine HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/animal-planet/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Nat Geo Wild
+http://s01.wsbof.com/womens-magazine-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Animal Planet HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/nat-geo-wild/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Viasat Nature
+http://s01.wsbof.com/animal-planet-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Nat Geo Wild HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/viasat-nature/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Viasat Explore
+http://s01.wsbof.com/nat-geo-wild-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Love Nature HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/viasat-explorer/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Моя планета
+http://s01.wsbof.com/love-nature-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",В мире животных HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/moya-planeta/mpegts?token=98053602
+http://s01.wsbof.com/animal-family-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Viasat Nature HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/viasat-nature-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Viasat Nature/History HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/viasat-nature-history-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Viasat Explore HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/viasat-explore-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Моя планета HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/planeta-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Живая Планета
 #EXTGRP:Познавательные
-http://s01.wsbof.com/zhivaya-planeta/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Travel Channel
+http://s01.wsbof.com/zhivaya-planeta/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Живая природа HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/travel-channel/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Travel+Adventure
+http://s01.wsbof.com/zhivaja-priroda-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Big Planet HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/travel-adventure/mpegts?token=98053602
+http://s01.wsbof.com/big-planet-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Terra HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/terra-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Travel Channel HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/travel-channel-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/travel-adventure-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Приключения HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/teletravel-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Телепутешествия
 #EXTGRP:Познавательные
-http://s01.wsbof.com/teleputeshestvija/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Наша Тема
+http://s01.wsbof.com/teleputeshestvija/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Глазами Туриста HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/nasha-tema/mpegts?token=98053602
+http://s01.wsbof.com/glazami-turista-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Наша Тема HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/nasha-tema-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Поехали HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/poehali-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Большая Азия HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/big-asia-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",RTG
 #EXTGRP:Познавательные
-http://s01.wsbof.com/rtg-tv/mpegts?token=98053602
+http://s01.wsbof.com/rtg-tv/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",RTG HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/rtg-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",HDL
+#EXTGRP:Познавательные
+http://s01.wsbof.com/hd-life/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Ocean-TV
 #EXTGRP:Познавательные
-http://s01.wsbof.com/ocean-tv/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Моя Стихия
+http://s01.wsbof.com/ocean-tv/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Моя Стихия HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/morskoj/mpegts?token=98053602
+http://s01.wsbof.com/morskoj-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Зоопарк
 #EXTGRP:Познавательные
-http://s01.wsbof.com/zoopark/mpegts?token=98053602
+http://s01.wsbof.com/zoopark/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Рыболов
 #EXTGRP:Познавательные
-http://s01.wsbof.com/ohotnik-rybolov/mpegts?token=98053602
+http://s01.wsbof.com/ohotnik-rybolov/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Охотник и рыболов HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/ohotnik-rybolov-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Дикая Охота HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/dikaya-ohota-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Дикая Рыбалка HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/dikaya-rybalka-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Охота и рыбалка
 #EXTGRP:Познавательные
-http://s01.wsbof.com/oxota-rybalka/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Диалоги о Рыбалке
+http://s01.wsbof.com/oxota-rybalka/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Диалоги о Рыбалке HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/dialogi-rybalka/mpegts?token=98053602
+http://s01.wsbof.com/dialogi-rybalka-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Рыбалка HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/rybalka-hd-ua/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Оружие
 #EXTGRP:Познавательные
-http://s01.wsbof.com/oruzhie/mpegts?token=98053602
+http://s01.wsbof.com/oruzhie/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Арсенал HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/arsenal-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Мужской
 #EXTGRP:Познавательные
-http://s01.wsbof.com/muzhskoj/mpegts?token=98053602
+http://s01.wsbof.com/muzhskoj/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Техно 24
 #EXTGRP:Познавательные
-http://s01.wsbof.com/t24/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Наука
+http://s01.wsbof.com/t24/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Наука HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/nauka-20/mpegts?token=98053602
+http://s01.wsbof.com/nauka-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Galaxy HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/galaxy-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Первый космический HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/eureka-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Da Vinci
 #EXTGRP:Познавательные
-http://s01.wsbof.com/da-vinci-learning/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",History
+http://s01.wsbof.com/da-vinci-learning/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Curiosity Stream HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/history/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Viasat History
+http://s01.wsbof.com/curiosity-stream-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",History HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/viasat-history/mpegts?token=98053602
+http://s01.wsbof.com/history-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",History 2 HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/h2-hd-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Viasat History HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/viasat-history-hd-orig/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",История
 #EXTGRP:Познавательные
-http://s01.wsbof.com/istorija/mpegts?token=98053602
+http://s01.wsbof.com/istorija/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",365 Дней
 #EXTGRP:Познавательные
-http://s01.wsbof.com/365-dnej/mpegts?token=98053602
+http://s01.wsbof.com/365-dnej/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Top Secret
 #EXTGRP:Познавательные
-http://s01.wsbof.com/sovershenno-sekretno/mpegts?token=98053602
+http://s01.wsbof.com/sovershenno-sekretno/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Кто есть кто
 #EXTGRP:Познавательные
-http://s01.wsbof.com/kto-est-kto/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Театр
+http://s01.wsbof.com/kto-est-kto/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Криминальное HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/teatr-tv/mpegts?token=98053602
+http://s01.wsbof.com/kriminalnoe-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Театр HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/teatr-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",НТВ Право
+#EXTGRP:Познавательные
+http://s01.wsbof.com/ntv-pravo/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Зал Суда HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/zal-suda-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Психология
 #EXTGRP:Познавательные
-http://s01.wsbof.com/psihologija-21/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Доктор
+http://s01.wsbof.com/psihologija-21/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Доктор HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/zdorovoe-tv/mpegts?token=98053602
+http://s01.wsbof.com/zdorovoe-tv-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Вопросы и ответы
 #EXTGRP:Познавательные
-http://s01.wsbof.com/voprosy-otvety/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Живи
+http://s01.wsbof.com/voprosy-otvety/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Живи HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/zhivi/mpegts?token=98053602
+http://s01.wsbof.com/zhivi-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Живи Активно HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/zhivi-activno-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Мама
 #EXTGRP:Познавательные
-http://s01.wsbof.com/mama/mpegts?token=98053602
+http://s01.wsbof.com/mama/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Усадьба
 #EXTGRP:Познавательные
-http://s01.wsbof.com/usadba/mpegts?token=98053602
+http://s01.wsbof.com/usadba/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Домашние животные
 #EXTGRP:Познавательные
-http://s01.wsbof.com/domashnije-zhivotnye/mpegts?token=98053602
+http://s01.wsbof.com/domashnije-zhivotnye/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Загородный int HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/zagorodnyy-int-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Загородная Жизнь HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/zagorodnaya-zhizn/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Бобер
 #EXTGRP:Познавательные
-http://s01.wsbof.com/bober/mpegts?token=98053602
+http://s01.wsbof.com/bober/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Тномер
 #EXTGRP:Познавательные
-http://s01.wsbof.com/tnomer/mpegts?token=98053602
+http://s01.wsbof.com/tnomer/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",НТВ Стиль
 #EXTGRP:Познавательные
-http://s01.wsbof.com/ntv-style/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",English Class
+http://s01.wsbof.com/ntv-style/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",HGTV HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/english-club/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",World Fashion
+http://s01.wsbof.com/hgtv-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",E HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/world-fashion/mpegts?token=98053602
+http://s01.wsbof.com/kanal-e-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",English Class HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/english-club-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",World Fashion HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/world-fashion-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Fashion and LifeStyle HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/fashion-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Luxury World HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/luxury-world-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Еда
 #EXTGRP:Познавательные
-http://s01.wsbof.com/eda/mpegts?token=98053602
-#EXTINF:0 group-title="Познавательные",Food Network
+http://s01.wsbof.com/eda/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Food Time HD
 #EXTGRP:Познавательные
-http://s01.wsbof.com/food-network/mpegts?token=98053602
+http://s01.wsbof.com/eda-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Познавательные",Food Network HD
+#EXTGRP:Познавательные
+http://s01.wsbof.com/food-network-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Кухня ТВ
 #EXTGRP:Познавательные
-http://s01.wsbof.com/kuxnya-tv/mpegts?token=98053602
+http://s01.wsbof.com/kuxnya-tv/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Познавательные",Телекафе
 #EXTGRP:Познавательные
-http://s01.wsbof.com/telekafe/mpegts?token=98053602
+http://s01.wsbof.com/telekafe/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Extasy 4k
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/extasy-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Eromania 4k
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/eromania-4k-orig/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Penthouse Gold
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/penthouse1-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Penthouse Quickies
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/penthouse2-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Redlight HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/redlight-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Dorcel TV HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/dorcel-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Vivid Red HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/vivid-red-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Private HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/private-tv/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Hustler HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/hustler-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Brazzers TV HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/brazzers-tv/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Babes HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/babes-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Шалун HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/shalun-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Шёлк HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/shyolk-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Eroxxx HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/eroxxx-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Exxxotica HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/exxxotica-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Red Lips HD
+#EXTGRP:XXX (18+)
+http://s01.wsbof.com/red-lips/mpegts?token=b2c158d9
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000",XXL
 #EXTGRP:XXX (18+)
-http://s01.wsbof.com/xxl-tv/mpegts?token=98053602
-#EXTINF:0 group-title="XXX (18+)" parent-code="0000",Dorcel TV
-#EXTGRP:XXX (18+)
-http://s01.wsbof.com/dorcel-tv/mpegts?token=98053602
+http://s01.wsbof.com/xxl-tv/mpegts?token=b2c158d9
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000",Blue Hustler
 #EXTGRP:XXX (18+)
-http://s01.wsbof.com/blue-hustler/mpegts?token=98053602
+http://s01.wsbof.com/blue-hustler/mpegts?token=b2c158d9
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000",O-La-La
 #EXTGRP:XXX (18+)
-http://s01.wsbof.com/o-la-la/mpegts?token=98053602
+http://s01.wsbof.com/o-la-la/mpegts?token=b2c158d9
 #EXTINF:0 group-title="XXX (18+)" parent-code="0000",Русская Ночь
 #EXTGRP:XXX (18+)
-http://s01.wsbof.com/ruskaja-noch/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",24 Канал
+http://s01.wsbof.com/ruskaja-noch/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Кино UHD
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/kino-uhd-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Ultra HD Cinema
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/ultra-hd-cinema-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Сериал UHD
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/serial-uhd-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Eleven Sports 1 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/eleven-sports-1-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",TRT 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/trt-tr-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Sport 5 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/sport5-il-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Русский Экстрим UHD
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/russkij-extrim-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Insight UHD
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/insight-uhd-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Home 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/home-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Love Nature 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/love-nature-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Наша Сибирь 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/nasha-sibir-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Глазами Туриста 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/glazami-turista-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",TravelXP 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/travelxp-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Quadro 4К
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/quadro-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",MyZen 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/myzen-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Museum 4k
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/museum-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Stingray Festival 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/stingray-festival-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Ultra HD",Fashion TV 4K
+#EXTGRP:Ultra HD
+http://s01.wsbof.com/fashion-one-4k/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",24 Канал HD
 #EXTGRP:Украина
-http://s01.wsbof.com/24ch-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",OBOZ TV
+http://s01.wsbof.com/24tv-ua/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",OBOZ TV HD
 #EXTGRP:Украина
-http://s01.wsbof.com/oboz-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",НТН
+http://s01.wsbof.com/oboz-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",НТН HD
 #EXTGRP:Украина
-http://s01.wsbof.com/ntn/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",ТЕТ
+http://s01.wsbof.com/ntn-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",ТЕТ HD
 #EXTGRP:Украина
-http://s01.wsbof.com/tet/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Eспресо TV
+http://s01.wsbof.com/tet-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Eспресо TV HD
 #EXTGRP:Украина
-http://s01.wsbof.com/plus-plus/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Прямий
+http://s01.wsbof.com/espresso-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Прямий HD
 #EXTGRP:Украина
-http://s01.wsbof.com/tonis-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",K1
+http://s01.wsbof.com/tonis-hd-ua/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",K1 HD
 #EXTGRP:Украина
-http://s01.wsbof.com/k1-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Квартал ТВ
+http://s01.wsbof.com/k1-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Квартал ТВ HD
 #EXTGRP:Украина
-http://s01.wsbof.com/kvartal-tv-ua/mpegts?token=98053602
+http://s01.wsbof.com/kvartal-tv-ua-hd/mpegts?token=b2c158d9
 #EXTINF:0 group-title="Украина",5 канал UA
 #EXTGRP:Украина
-http://s01.wsbof.com/5kanal-ukraina/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Enter-фільм
+http://s01.wsbof.com/5kanal-ukraina/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",5 канал HD UA
 #EXTGRP:Украина
-http://s01.wsbof.com/enter-film-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",ICTV
+http://s01.wsbof.com/5kanal-ukraina-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Enter-фільм HD
 #EXTGRP:Украина
-http://s01.wsbof.com/ictv/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",СТБ
+http://s01.wsbof.com/enter-film-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Наше Любимое Кино HD
 #EXTGRP:Украина
-http://s01.wsbof.com/stb/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Перший Національний
+http://s01.wsbof.com/nashe-lubimoe-kino-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Star Cinema HD
 #EXTGRP:Украина
-http://s01.wsbof.com/pervyj-national-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Интер
+http://s01.wsbof.com/star-cinema-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Star Family HD
 #EXTGRP:Украина
-http://s01.wsbof.com/inter/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Интер+
+http://s01.wsbof.com/star-family-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Болт HD
 #EXTGRP:Украина
-http://s01.wsbof.com/inter-plus-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",1+1
+http://s01.wsbof.com/bolt-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",ICTV HD
 #EXTGRP:Украина
-http://s01.wsbof.com/1-plus-1/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",2+2
+http://s01.wsbof.com/ictv-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",ICTV2 HD
 #EXTGRP:Украина
-http://s01.wsbof.com/2-plus-2-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Бигуди
+http://s01.wsbof.com/ictv2-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",СТБ HD
 #EXTGRP:Украина
-http://s01.wsbof.com/bigudi-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Новый Канал
+http://s01.wsbof.com/stb-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Перший Національний HD
 #EXTGRP:Украина
-http://s01.wsbof.com/novij-kanal/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Мега
+http://s01.wsbof.com/pervyj-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Интер HD
 #EXTGRP:Украина
-http://s01.wsbof.com/mega-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Украина",Кус-Кус
+http://s01.wsbof.com/inter-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Интер+ HD
 #EXTGRP:Украина
-http://s01.wsbof.com/kus-kus-ua/mpegts?token=98053602
-#EXTINF:0 group-title="Беларусь",Беларусь 1
-#EXTGRP:Беларусь
-http://s01.wsbof.com/belarus1-by/mpegts?token=98053602
-#EXTINF:0 group-title="Беларусь",Беларусь 2
-#EXTGRP:Беларусь
-http://s01.wsbof.com/belarus2/mpegts?token=98053602
-#EXTINF:0 group-title="Беларусь",Беларусь 3
-#EXTGRP:Беларусь
-http://s01.wsbof.com/belarus3-by/mpegts?token=98053602
-#EXTINF:0 group-title="Беларусь",Беларусь 5
-#EXTGRP:Беларусь
-http://s01.wsbof.com/belarus5/mpegts?token=98053602
-#EXTINF:0 group-title="Беларусь",Беларусь 24
-#EXTGRP:Беларусь
-http://s01.wsbof.com/belarus-24/mpegts?token=98053602
-#EXTINF:0 group-title="Беларусь",ОНТ
-#EXTGRP:Беларусь
-http://s01.wsbof.com/ont-by/mpegts?token=98053602
-#EXTINF:0 group-title="Беларусь",Белсат
-#EXTGRP:Беларусь
-http://s01.wsbof.com/belsat-by/mpegts?token=98053602
+http://s01.wsbof.com/inter-plus-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",1+1 HD
+#EXTGRP:Украина
+http://s01.wsbof.com/1-plus-1-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",1+1 International
+#EXTGRP:Украина
+http://s01.wsbof.com/1-plus-1-international-ua/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",2+2 HD
+#EXTGRP:Украина
+http://s01.wsbof.com/2-plus-2-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Дом HD
+#EXTGRP:Украина
+http://s01.wsbof.com/dom-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Бигуди HD
+#EXTGRP:Украина
+http://s01.wsbof.com/bigudi-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Новый Канал HD
+#EXTGRP:Украина
+http://s01.wsbof.com/novyj-kanal-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",ОЦЕ HD
+#EXTGRP:Украина
+http://s01.wsbof.com/oce-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",УНИАН HD
+#EXTGRP:Украина
+http://s01.wsbof.com/unian-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Мега HD
+#EXTGRP:Украина
+http://s01.wsbof.com/mega-ua-hd/mpegts?token=b2c158d9
+#EXTINF:0 group-title="Украина",Кус-Кус HD
+#EXTGRP:Украина
+http://s01.wsbof.com/kus-kus-ua-hd/mpegts?token=b2c158d9
